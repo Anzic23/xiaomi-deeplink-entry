@@ -147,6 +147,16 @@ const SERVICES = {
       showOnLaunch: true,
     },
     {
+      id: 'vk-video',
+      name: 'VK Video',
+      package: 'com.vkontakte.android',
+      scheme: 'vk',
+      path: 'video',
+      fallbackUrl: 'https://vk.com/video',
+      icon: 'https://play-lh.googleusercontent.com/aR4n52crMWJXPWd9Wa_e01JWBcvqe8GYomjpGtIHF66cyeUCQnT_JlR1c5AJkLzJJw=s64-rw',
+      showOnLaunch: true,
+    },
+    {
       id: 'youtube',
       name: 'YouTube',
       package: 'com.google.android.youtube',
@@ -232,3 +242,4 @@ const SERVICES = {
     }
   ]
 };
+
