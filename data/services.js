@@ -152,8 +152,8 @@ const SERVICES = {
       package: 'com.vkontakte.android',
       scheme: 'vk',
       path: 'video',
-      fallbackUrl: 'https://vk.com/video',
-      icon: 'https://play-lh.googleusercontent.com/aR4n52crMWJXPWd9Wa_e01JWBcvqe8GYomjpGtIHF66cyeUCQnT_JlR1c5AJkLzJJw=s64-rw',
+      fallbackUrl: 'https://vkvideo.ru',
+      icon: 'https://play-lh.googleusercontent.com/XORR9Tb3i3MmeFKyUOmfvROXt2Nq4H_wRSOUaD1VCPJdofM_5Ldxg7LoFvBLik3BBeY=w240-h480-rw',
       showOnLaunch: true,
     },
     {
